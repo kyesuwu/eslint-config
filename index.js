@@ -235,7 +235,8 @@ module.exports = {
         "object-curly-newline": [
             "warn",
             {
-                "multiline": true
+                "consistent": true,
+                "minProperties": 2
             }
         ],
         "object-curly-spacing": [
