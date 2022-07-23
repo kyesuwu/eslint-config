@@ -217,6 +217,7 @@ module.exports = {
             {
                 "nestedBinaryExpressions": false,
                 "ignoreJSX": "multi-line",
+                "enforceForArrowConditionals": false
             }
         ],
         "no-mixed-spaces-and-tabs": "warn",
